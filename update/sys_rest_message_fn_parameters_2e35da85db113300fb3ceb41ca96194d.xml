@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>specific</name>
+        <rest_message_function display_value="Default GET">bdc2de05db113300fb3ceb41ca961963</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 07:31:42</sys_created_on>
+        <sys_id>2e35da85db113300fb3ceb41ca96194d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>specific</sys_name>
+        <sys_package display_value="IPLookup" source="x_322254_iplookup">da0d79efdb457300fb3ceb41ca961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">da0d79efdb457300fb3ceb41ca961997</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_2e35da85db113300fb3ceb41ca96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 07:31:59</sys_updated_on>
+        <type>string</type>
+        <value>org</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
